@@ -40,10 +40,17 @@ setup_dotfiles() {
 
 copy_configs() {
     echo "[+] Copiando archivos de configuración..."
-    cp -r "$DOTFILES_DIR/hypr" ~/.config/
-    cp -r "$DOTFILES_DIR/waybar" ~/.config/
-    cp -r "$DOTFILES_DIR/rofi" ~/.config/
+    cp -r "$DOTFILES_DIR/bash/" /home/$USER/
+    cp -r "$DOTFILES_DIR/btop" ~/.config/
     cp -r "$DOTFILES_DIR/dunst" ~/.config/
+    cp -r "$DOTFILES_DIR/fastfetch" ~/.config/
+    cp -r "$DOTFILES_DIR/gtk-3.0" ~/.config/
+    cp -r "$DOTFILES_DIR/hypr" ~/.config/
+    cp -r "$DOTFILES_DIR/kitty" ~/.config/
+    cp -r "$DOTFILES_DIR/local/" /home/$USER/.local/
+    cp -r "$DOTFILES_DIR/rofi" ~/.config/
+    cp -r "$DOTFILES_DIR/waybar" ~/.config/
+    cp -r "$DOTFILES_DIR/waypaper" ~/.config/
 }
 
 setup_audio() {
