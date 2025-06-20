@@ -1,0 +1,2 @@
+# TODOs
+- [ ] Toggle floating script

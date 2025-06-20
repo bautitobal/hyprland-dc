@@ -1,0 +1,39 @@
+🎛️  ATAJOS DE HYPERLAND - AYUDA RÁPIDA
+
+💻 APLICACIONES
+  SUPER + Return      → Abrir terminal ($terminal)
+  SUPER + E           → Abrir explorador de archivos ($fileManager)
+  SUPER + B           → Abrir navegador ($browser)
+  SUPER + N           → Abrir editor ($editor)
+  SUPER + D           → Menú de aplicaciones ($menu)
+
+📝 UTILIDADES Y SCRIPTS
+  SUPER + Shift + P   → Captura de ventana activa
+  SUPER + Print       → Captura de región
+  SUPER + Shift + T   → Iniciar Pomodoro
+  SUPER + Shift + X   → Mostrar/ocultar Waybar
+📖  SUPER + H           → Mostrar este menú de ayuda
+
+🪟 GESTIÓN DE VENTANAS
+  SUPER + Q           → Cerrar ventana activa
+  SUPER + Space       → Alternar flotante/tiling
+  SUPER + F           → Pantalla completa
+  SUPER + M           → Cerrar sesión (Hyprland exit)
+  SUPER + P           → Pseudo-tile (modo dwindle)
+  SUPER + J           → Alternar división (dwindle)
+
+🔃 WORKSPACES
+  SUPER + [1–0]       → Ir al workspace [1–10]
+  SUPER + Shift + [1–0] → Mover ventana al workspace [1–10]
+✨  SUPER + S           → Alternar workspace mágico (scratchpad)
+📦  SUPER + Shift + S   → Mover ventana al scratchpad
+
+🧭 NAVEGACIÓN DE FOCUS
+🡸  SUPER + ← / H       → Mover foco a la izquierda
+🡺  SUPER + → / L       → Mover foco a la derecha
+🡹  SUPER + ↑ / K       → Mover foco arriba
+🡻  SUPER + ↓ / J       → Mover foco abajo
+
+🖱️ SCROLL DE WORKSPACES
+🖱️  SUPER + scroll↑     → Workspace siguiente
+🖱️  SUPER + scroll↓     → Workspace anterior
